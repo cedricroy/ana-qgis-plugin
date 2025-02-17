@@ -1,4 +1,4 @@
-# qgis-plugin
+# ana-qgis-plugin
 
 Plugin pour QGIS 3 fournissant un accès simple aux flux de géographiques WMS et WFS de l'ANA - CEN Ariège et d'autres ressources géographiques utiles en Ariège.
 
