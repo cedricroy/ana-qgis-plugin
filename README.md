@@ -36,6 +36,10 @@ Source d'inspiration :
 
 * Nicolas Damiens (Picardie Nature)
 
+Modification : 
+
+* Cédric Roy (ANA - CEN Ariège)
+  
 Autres remerciements :
 
 * Auteurs des icônes de QGIS, reprises dans l'arbre des ressources
